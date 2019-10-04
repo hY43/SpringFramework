@@ -9,6 +9,7 @@
 - ApplicationContext가 상속받고 있는 클래스로 자원(리소스)를 읽어오는 기능을 제공한다.
 
 ### 02. ResourceLoader 실습
+---
 - 사용하고자 하는 Resource를 생성한다.
     - Resource 폴더에 test.txt 파일을 아래와 같이 생성한다.
     ```
